@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikhil sharma</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilsharma926&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilsharma926" /> </p>
 
+<p align="left"> <a href="https://twitter.com/nikhils06111357" target="blank"><img src="https://img.shields.io/twitter/follow/nikhils06111357?logo=twitter&style=for-the-badge" alt="nikhils06111357" /></a> </p>
+
 
  📫How to reach me **nikhilsharma787683@gmail.com**
 
