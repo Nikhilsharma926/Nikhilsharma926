@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil sharma</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilsharma926&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilsharma926" /> </p>
+
 
  📫How to reach me **nikhilsharma787683@gmail.com**
 
